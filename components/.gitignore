@@ -1,0 +1,17 @@
+# Ignore system/user files
+/../
+*.log
+*.tmp
+*.lock
+*.pyo
+*.pyc
+__pycache__/
+venv/
+.env/
+.DS_Store
+Thumbs.db
+.vscode/
+*.code-workspace
+*.wav
+*.mp3
+*.ogg
